@@ -6,7 +6,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 ----------------------------------------------------------------------------------------------------------------------------------
-![Challenge Preview](C:\Users\Vera D\Documents\ResponsiveQRCodeComponent\image1.png)
+![Challenge Preview](https://github.com/veradanicode/QR-Code-Component-Frontend-Mentor-Challenge/blob/master/image1.png)
 
 ### Links
 ----------------------------------------------------------------------------------------------------------------------------------
