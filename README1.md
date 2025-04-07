@@ -11,6 +11,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 ----------------------------------------------------------------------------------------------------------------------------------
 - Solution URL: [Frontend Mentor QR Code Component Solution](https://www.frontendmentor.io/solutions/my-qr-code-solution)
+- Live Site URL:(https://veradanicode.github.io/QR-Code-Component-Frontend-Mentor-Challenge/)
+
 
 ## My process
 
@@ -32,5 +34,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Author
 ----------------------------------------------------------------------------------------------------------------------------------
 - Frontend Mentor - [@veradanicode](https://www.frontendmentor.io/profile/veradanicode)
-- Linkedin - [@Vera Daniel](www.linkedin.com/in/vera-daniel-4a6942299)
+- Linkedin - [@Vera Daniel](https://www.linkedin.com/in/vera-daniel-4a6942299)
+- Twitter -[@veradanicode](https://x.com/veradanicode)
 
